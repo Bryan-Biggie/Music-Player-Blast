@@ -20,28 +20,28 @@ Blast is a modern digital audio sequencer. Blast began as our final-year varsity
 ## Screenshots
 
 ### SAMPLE 1
-![](https://raw.githubusercontent.com/andrepv/spotify-react/master/screenshots/1.PNG)
+![](./screenshots/1.PNG)
 <pre>
 
 
 
 </pre>
 ### SAMPLE 2
-![](https://raw.githubusercontent.com/andrepv/spotify-react/master/screenshots/2.PNG)
+![](./screenshots/2.PNG)
 <pre>
 
 
 
 </pre>
 ### SAMPLE 3
-![](https://raw.githubusercontent.com/andrepv/spotify-react/master/screenshots/3.PNG)
+![](./screenshots/3.PNG)
 <pre>
 
 
 
 </pre>
 ### SAMPLE 4
-![](https://raw.githubusercontent.com/andrepv/spotify-react/master/screenshots/4.PNG)
+![](./screenshots/4.PNG)
 <pre>
 
 
